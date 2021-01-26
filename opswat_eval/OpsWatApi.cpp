@@ -491,7 +491,7 @@ OpsWatApi::return_codes OpsWatApi::WaitOnProcessing(std::string* pApiKey)
 			}
 			else if (doc.HasMember("scan_results"))
 			{
-				int percentFinished = doc["scan_results"].operator[]("progress_percentage").GetInt();// assuming its whole number percent based on 
+				int percentFinished = doc["scan_results"].operator[]("progress_percentage").GetInt();// assuming its whole number percent based on api site
 				if (percentFinished != 100)
 				{
 					cc = file_processing;
