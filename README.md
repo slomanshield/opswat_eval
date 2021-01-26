@@ -1,6 +1,6 @@
 # opswat_eval
 
-To build please pull down and extract the zip file onto a windows 10 machines running visual sutdio 2017 (enterprise peferred)
+To build please pull down and extract the zip file onto a windows 10 machine running visual sutdio 2017 (enterprise peferred)
 
 open the solution file with visual studio 2017
 
