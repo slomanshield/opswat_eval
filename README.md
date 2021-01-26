@@ -12,6 +12,8 @@ library used for hashing: openssl
 
 library used for http: WinHttp (built into MFC)
 
+library used for json: rapidjson (headers included for build)
+
 to run please open a command prompt in the release directory and to use the .exe the commands are as follows
 
 opswat_eval.exe upload_file <file_path> <api_key>
