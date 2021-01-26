@@ -4,7 +4,7 @@ To build please pull down and extract the zip file onto a windows 10 machines ru
 
 open the solution file with visual studio 2017
 
-to run the project settings have already selected release so just right click and build project. 
+project settings have already selected release so just right click and build project. 
 
 The output might come out quickly, if you missed it check the Release you should see some obj files, exe (with different time stamps for built files) and dlls
 
