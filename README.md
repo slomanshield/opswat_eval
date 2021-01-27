@@ -18,7 +18,7 @@ to run please open a command prompt in the release directory and to use the .exe
 
 opswat_eval.exe upload_file <file_path> <api_key>
 
-exmaple 
+example 
 
 opswat_eval.exe upload_file "C:\Users\Danny\Desktop\test_file.txt" XXXXXXXXXXXXXXXXXXXXXX
 
